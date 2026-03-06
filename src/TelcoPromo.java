@@ -1,6 +1,5 @@
 public class TelcoPromo {
     public static void main(String[] args) {
-        // Fix: Use 'Telco' instead of 'TelcoSubscription' to access getter methods
         Telco smart = new Telco(15, 500, "Smart", false);
         Telco globe = new Telco(10, 450, "Globe", true);
         Telco ditto = new Telco(8, 400, "Ditto", true);
