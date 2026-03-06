@@ -23,7 +23,6 @@ public class Telco implements TelcoSubscription {
         return unliPackage.showUnliCallsTextOffer(telcoName, unliCallText);
     }
 
-    // Getters allowed for the client to access data
     public String getTelcoName() { return telcoName; }
     public double getPromoPrice() { return promoPrice; }
     public boolean getUnliCallText() { return unliCallText; }
