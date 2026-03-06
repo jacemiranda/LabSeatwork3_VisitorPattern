@@ -11,4 +11,5 @@ Imagine you are looking for a new mobile plan for your smartphone. Three major t
 * **Ditto**: Offers a data allowance of 8 GB for ₱400 per month. This plan includes unlimited calls and texts to all networks within the country.
 
 ## UML Class Diagram
-<img width="2638" height="908" alt="visitorpattern" src="https://github.com/user-attachments/assets/ba9c22df-89a2-48a2-a504-ca52ad34176e" />
+<img width="868" height="539" alt="image" src="https://github.com/user-attachments/assets/7504cc43-e674-4c11-962a-8ec66ff70e1d" />
+
